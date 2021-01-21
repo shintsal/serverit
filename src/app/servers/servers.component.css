@@ -1,0 +1,27 @@
+/* app-servers säännöt */
+.app-servers{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.app-servers *{
+    color: bisque;
+    margin: 3px;
+}
+
+input{
+    padding: 5px;
+}
+
+button{
+    width: 20%;
+    background-color: blue;
+    padding: 5px;
+}
+
+hr{
+    display: block;
+    margin: 10px 0;
+}

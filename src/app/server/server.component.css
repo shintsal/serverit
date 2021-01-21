@@ -1,0 +1,13 @@
+/* app-serverin säännöt */
+.app-server{
+    background-color: blue;
+    margin: 0;
+}
+
+.app-server * {
+    color: bisque;
+}
+
+.online{
+    border: 5px bisque double;
+}
